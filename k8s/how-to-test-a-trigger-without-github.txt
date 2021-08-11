@@ -3,3 +3,4 @@ Ans: Tekton Trigger is event definition to tell tekton to listen to in order to 
 
 1. Since we have not yet added GitHub commit hooks, how did you test your Trigger?
 Ans: Postman or Curl to your oc route. Or no github webhook redelivery.
+...
